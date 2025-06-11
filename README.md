@@ -17,18 +17,34 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-selmi/)
 
 ### Languages and Tools:
-&lt;p align="left">
-&lt;img src="[suspicious link removed]" alt="Java" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Spring Boot" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Ionic" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Angular" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Python" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="PostgreSQL" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Oracle" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="SQLite" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="TensorFlow" width="40" height="40"/>
-&lt;img src="[suspicious link removed]" alt="Scikit-learn" width="40" height="40"/>
-&lt;/p>
+
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</a>
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+</a>
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+</p>
+
 <!--
 **dhiaselmi1/dhiaselmi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

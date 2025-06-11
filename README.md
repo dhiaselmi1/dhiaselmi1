@@ -17,11 +17,10 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 - 👯 I’m looking to collaborate on innovative and impactful tech projects — especially those at the intersection of AI, sustainability, and user-centric design. I'm always open to learning from others and growing through teamwork.
 
 ---
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-selmi/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddhiaselmii@gmail.com)
 ### Languages and Tools:
 
 <p align="left">

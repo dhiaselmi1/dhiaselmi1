@@ -6,7 +6,13 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 
 - 🌱 I’m deepening my knowledge in data science, machine learning, and AI. I’m actively exploring tools and frameworks such as Python, TensorFlow, and scikit-learn, while also focusing on building a strong foundation in data analysis and model deployment.
 
-- 💻 My technical expertise includes **Java (Spring Boot)**, **Ionic**, **Angular**, **Python**, **PostgreSQL**, **Oracle**, **SQL3**, web development, mobile applications, full-stack architecture, and **Artificial Intelligence**.
+-  💻 My technical expertise includes:
+
+ - Backend: Java (Spring Boot)
+ - Frontend & Mobile: Ionic, Angular
+ - Programming Languages: Python, c, c++
+ - Databases: PostgreSQL, Oracle, SQLite
+ - General: Web Development, Mobile Applications, Full-Stack Architecture, Artificial Intelligence
 
 - 👯 I’m looking to collaborate on innovative and impactful tech projects — especially those at the intersection of AI, sustainability, and user-centric design. I'm always open to learning from others and growing through teamwork.
 
@@ -33,6 +39,12 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>

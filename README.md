@@ -15,6 +15,20 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-selmi/)
+
+### Languages and Tools:
+&lt;p align="left">
+&lt;img src="[suspicious link removed]" alt="Java" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Spring Boot" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Ionic" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Angular" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Python" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="PostgreSQL" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Oracle" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="SQLite" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="TensorFlow" width="40" height="40"/>
+&lt;img src="[suspicious link removed]" alt="Scikit-learn" width="40" height="40"/>
+&lt;/p>
 <!--
 **dhiaselmi1/dhiaselmi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

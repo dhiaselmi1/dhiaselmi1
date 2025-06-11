@@ -8,11 +8,11 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 
 -  💻 My technical expertise includes:
 
- - Backend: Java (Spring Boot)
- - Frontend & Mobile: Ionic, Angular
- - Programming Languages: Python, c, c++
- - Databases: PostgreSQL, Oracle, SQLite
- - General: Web Development, Mobile Applications, Full-Stack Architecture, Artificial Intelligence
+ -- Backend: Java (Spring Boot)
+ -- Frontend & Mobile: Ionic, Angular
+ -- Programming Languages: Python, c, c++
+ -- Databases: PostgreSQL, Oracle, SQLite
+ -- General: Web Development, Mobile Applications, Full-Stack Architecture, Artificial Intelligence
 
 - 👯 I’m looking to collaborate on innovative and impactful tech projects — especially those at the intersection of AI, sustainability, and user-centric design. I'm always open to learning from others and growing through teamwork.
 

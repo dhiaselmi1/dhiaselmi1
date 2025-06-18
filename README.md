@@ -6,13 +6,15 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 
 - 🌱 I’m deepening my knowledge in data science, machine learning, and AI. I’m actively exploring tools and frameworks such as Python, TensorFlow, and scikit-learn, while also focusing on building a strong foundation in data analysis and model deployment.
 
--  💻 My technical expertise includes:
+- 💻 My technical expertise includes:
 
-    * Backend: Java (Spring Boot)
-    * Frontend & Mobile: Ionic, Angular
-    * Programming Languages: Python, c, c++
+    * Backend: Java (Spring Boot), FastAPI (Python)
+    * Frontend & Mobile: Ionic, Angular, Streamlit (Python)
+    * Programming Languages: Python, C, C++
     * Databases: PostgreSQL, Oracle, SQLite
+    * AI & LLMs: Mistral, LLaMA2, Deepseek-Coder via Ollama
     * General: Web Development, Mobile Applications, Full-Stack Architecture, Artificial Intelligence
+
 
 - 👯 I’m looking to collaborate on innovative and impactful tech projects — especially those at the intersection of AI, sustainability, and user-centric design. I'm always open to learning from others and growing through teamwork.
 
@@ -24,6 +26,21 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 ### Languages and Tools:
 
 <p align="left">
+   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" width="90"/>
+</a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" width="90"/>
+</a>
+<a href="https://ollama.com/models/mistral" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Mistral-00BFFF?style=for-the-badge&logo=wind&logoColor=white" alt="mistral" width="90"/>
+</a>
+<a href="https://ollama.com/models/llama2" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LLaMA2-4B6F44?style=for-the-badge&logo=llama&logoColor=white" alt="llama2" width="90"/>
+</a>
+<a href="https://deepseek.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Deepseek_Coder-FF6F61?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="deepseek-coder" width="110"/>
+</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>

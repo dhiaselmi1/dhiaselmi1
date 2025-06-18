@@ -24,6 +24,8 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-selmi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddhiaselmii@gmail.com)
 
+---
+
 ### Languages and Tools:
 
 <p align="left">
@@ -37,14 +39,14 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
     <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI">
   </a>
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Llama_2-0078D4?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 2">
+    <img src="https://img.shields.io/badge/Llama_2-0078D4?style=for-the-badge&logo=llama&logoColor=white" alt="Llama 2">
   </a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DeepSeek-00C7B8?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
   </a>
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">

@@ -35,57 +35,57 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-linkedin-icon-logo-png-image_6353381.png" alt="LinkedIn" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48">
   </a>
   <a href="https://mail.google.com" target="_blank" rel="noreferrer">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_Icon_256px.png" alt="Gmail" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48" height="48">
   </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-full-color-rgb.png" alt="Streamlit" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48">
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/fastapi.png" alt="FastAPI" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48">
   </a>
   <a href="https://mistral.ai" target="_blank" rel="noreferrer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mistral-ai-icon.png" alt="Mistral AI" width="48" height="48">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistral.svg" alt="Mistral AI" width="48" height="48">
   </a>
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
-    <img src="https://custom.typingmind.com/img/llama.png" alt="Llama 2" width="48" height="48">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="Llama 2" width="48" height="48">
   </a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/005/560/732/original/deepseek-app-icon-on-transparent-background-png.png" alt="DeepSeek" width="48" height="48">
+    <img src="https://avatars.githubusercontent.com/u/130953377?s=200&v=4" alt="DeepSeek" width="48" height="48">
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/java.png" alt="Java" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48">
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/spring.png" alt="Spring" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" height="48">
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://v7.angular.cn/assets/images/logos/angular/angular.png" alt="Angular" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48">
   </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/ionic.png" alt="Ionic" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="48" height="48">
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/static/community_logos/python-logo-only.png" alt="Python" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48">
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/c.png" alt="C" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/cplusplus.png" alt="C++" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48">
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.png" alt="PostgreSQL" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48">
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.freepik.com/free-icon/oracle-database_359392.png" alt="Oracle" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48">
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://techicons.dev/icons/png/sqlite.png" alt="SQLite" width="48" height="48">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">
   </a>
-</p
+</p>
 <!--
 **dhiaselmi1/dhiaselmi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

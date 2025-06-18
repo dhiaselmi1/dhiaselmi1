@@ -33,58 +33,59 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 ---
 
 ### Languages and Tools:
-
 <p align="left">
+  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-linkedin-icon-logo-png-image_6353381.png" alt="LinkedIn" width="48" height="48">
+  </a>
+  <a href="https://mail.google.com" target="_blank" rel="noreferrer">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_Icon_256px.png" alt="Gmail" width="48" height="48">
+  </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/14596263828068230450" alt="Streamlit" width="48" height="48">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-full-color-rgb.png" alt="Streamlit" width="48" height="48">
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/9645094556433989739" alt="FastAPI" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/fastapi.png" alt="FastAPI" width="48" height="48">
   </a>
-   <a href="https://mistral.ai" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/6718169850987806430" alt="Mistral AI" width="48" height="48">
+  <a href="https://mistral.ai" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mistral-ai-icon.png" alt="Mistral AI" width="48" height="48">
   </a>
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/15814681219859671933" alt="Llama 2" width="48" height="48">
+    <img src="https://custom.typingmind.com/img/llama.png" alt="Llama 2" width="48" height="48">
   </a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/9093271371955648246" alt="DeepSeek" width="48" height="48">
+    <img src="https://static.vecteezy.com/system/resources/previews/005/560/732/original/deepseek-app-icon-on-transparent-background-png.png" alt="DeepSeek" width="48" height="48">
   </a>
-  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/1338923764489290798" alt="Java" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/java.png" alt="Java" width="48" height="48">
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/10100749264074830673" alt="Spring" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/spring.png" alt="Spring" width="48" height="48">
   </a>
-  
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/7508101390854073135" alt="Angular" width="48" height="48">
+    <img src="https://v7.angular.cn/assets/images/logos/angular/angular.png" alt="Angular" width="48" height="48">
   </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/11278482022014879314" alt="Ionic" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/ionic.png" alt="Ionic" width="48" height="48">
   </a>
-  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/16018161214180764277" alt="Python" width="48" height="48">
+    <img src="https://www.python.org/static/community_logos/python-logo-only.png" alt="Python" width="48" height="48">
   </a>
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/8462350432147061927" alt="C" width="48" height="48">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://techicons.dev/icons/png/c.png" alt="C" width="48" height="48">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/11704393310311945274" alt="C++" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/cplusplus.png" alt="C++" width="48" height="48">
   </a>
-  
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/18017558463706578917" alt="PostgreSQL" width="48" height="48">
+    <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.png" alt="PostgreSQL" width="48" height="48">
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/15375120834429740046" alt="Oracle" width="48" height="48">
+    <img src="https://img.freepik.com/free-icon/oracle-database_359392.png" alt="Oracle" width="48" height="48">
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/17129421759442382019" alt="SQLite" width="48" height="48">
+    <img src="https://techicons.dev/icons/png/sqlite.png" alt="SQLite" width="48" height="48">
   </a>
-</p>
+</p
 <!--
 **dhiaselmi1/dhiaselmi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

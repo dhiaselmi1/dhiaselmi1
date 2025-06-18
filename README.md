@@ -21,8 +21,14 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 ---
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-selmi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddhiaselmii@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-dhia-selmi/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="48" height="48">
+  </a>
+  <a href="mailto:mohameddhiaselmii@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="48" height="48">
+  </a>
+</p>
 
 ---
 
@@ -30,53 +36,53 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 
 <p align="left">
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/14596263828068230450" alt="Streamlit" width="48" height="48">
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/9645094556433989739" alt="FastAPI" width="48" height="48">
   </a>
-  <a href="https://mistral.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI">
+   <a href="https://mistral.ai" target="_blank" rel="noreferrer">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/6718169850987806430" alt="Mistral AI" width="48" height="48">
   </a>
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Llama_2-0078D4?style=for-the-badge&logo=llama&logoColor=white" alt="Llama 2">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/15814681219859671933" alt="Llama 2" width="48" height="48">
   </a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/DeepSeek-00C7B8?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/9093271371955648246" alt="DeepSeek" width="48" height="48">
   </a>
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/1338923764489290798" alt="Java" width="48" height="48">
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/10100749264074830673" alt="Spring" width="48" height="48">
   </a>
   
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/7508101390854073135" alt="Angular" width="48" height="48">
   </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/11278482022014879314" alt="Ionic" width="48" height="48">
   </a>
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/16018161214180764277" alt="Python" width="48" height="48">
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/8462350432147061927" alt="C" width="48" height="48">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/11704393310311945274" alt="C++" width="48" height="48">
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/18017558463706578917" alt="PostgreSQL" width="48" height="48">
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/15375120834429740046" alt="Oracle" width="48" height="48">
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/17129421759442382019" alt="SQLite" width="48" height="48">
   </a>
 </p>
 <!--

@@ -34,24 +34,18 @@ I’m Mohamed Dhia Selmi, an emerging software engineering student, passionate a
 
 ### Languages and Tools:
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48">
-  </a>
-  <a href="https://mail.google.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48" height="48">
-  </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48">
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48">
   </a>
-  <a href="https://mistral.ai" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistral.svg" alt="Mistral AI" width="48" height="48">
-  </a>
-  <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="Llama 2" width="48" height="48">
-  </a>
+<a href="https://ollama.com/models/mistral" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Mistral-00BFFF?style=for-the-badge&logo=wind&logoColor=white" alt="mistral" width="90"/>
+</a>
+<a href="https://ollama.com/models/llama2" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LLaMA2-4B6F44?style=for-the-badge&logo=llama&logoColor=white" alt="llama2" width="90"/>
+</a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/130953377?s=200&v=4" alt="DeepSeek" width="48" height="48">
   </a>

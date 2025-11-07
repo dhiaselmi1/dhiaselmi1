@@ -44,18 +44,30 @@ I'm Mohamed Dhia Selmi, a **second-year Software Engineering student** at the **
 
 ### Languages and Tools:
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48">
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="48" height="48">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
+  </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48">
   </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48">
   </a>
-<a href="https://ollama.com/models/mistral" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Mistral-00BFFF?style=for-the-badge&logo=wind&logoColor=white" alt="mistral" width="90"/>
-</a>
-<a href="https://ollama.com/models/llama2" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LLaMA2-4B6F44?style=for-the-badge&logo=llama&logoColor=white" alt="llama2" width="90"/>
-</a>
+  <a href="https://ollama.com/models/mistral" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Mistral-00BFFF?style=for-the-badge&logo=wind&logoColor=white" alt="mistral" width="90"/>
+  </a>
+  <a href="https://ollama.com/models/llama2" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LLaMA2-4B6F44?style=for-the-badge&logo=llama&logoColor=white" alt="llama2" width="90"/>
+  </a>
   <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/130953377?s=200&v=4" alt="DeepSeek" width="48" height="48">
   </a>

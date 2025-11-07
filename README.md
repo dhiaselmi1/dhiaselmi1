@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Mohamed Dhia Selmi, a **second-year Software Engineering student** at the **Higher Institute of Computer Science, Ariana**, passionate about artificial intelligence and innovative tech solutions. I'm currently **open to internship and part-time opportunities** where I can apply my skills in full-stack development and AI while continuing to learn and grow.
-- 🔭 I’m currently working on cutting-edge full-stack development and artificial intelligence projects. My work spans from building interactive web applications to exploring real-world AI solutions that can make a significant impact.
+
 
 ---
 
@@ -25,6 +25,8 @@ I'm Mohamed Dhia Selmi, a **second-year Software Engineering student** at the **
 - **General**: Web Development, Mobile Applications, Full-Stack Architecture, Artificial Intelligence
 
 👯 I'm looking to collaborate on innovative and impactful tech projects — especially those at the intersection of AI, sustainability, and user-centric design. I'm always open to learning from others and growing through teamwork.
+
+💡 **Currently available for**: Internships, Part-time positions, Collaborative projects
 
 ---
 ### Connect with me:
@@ -88,7 +90,6 @@ I'm Mohamed Dhia Selmi, a **second-year Software Engineering student** at the **
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48">
   </a>
 </p>
-💡 **Currently available for**: Internships, Part-time positions, Collaborative projects
 
 <!--
 **dhiaselmi1/dhiaselmi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
